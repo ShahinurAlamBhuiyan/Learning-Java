@@ -1,0 +1,16 @@
+Student ID: 01121
+Student Grade: Fail
+
+
+Student ID: 01121
+Student Grade: Fail
+
+
+Student ID: 01121
+Student Grade: B(Plain)
+
+
+Student ID: 01225
+Student Grade: B+(Plus)
+
+

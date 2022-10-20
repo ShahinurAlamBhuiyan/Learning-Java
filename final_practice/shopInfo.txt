@@ -1,0 +1,4 @@
+Shaban 231 22 2
+Rice 255 60 5
+Ice-cream 543 35 4
+Arjun 355 400 1
